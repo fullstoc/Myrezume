@@ -1,0 +1,2 @@
+# Myrezume
+Boybekov Javohir rezume
